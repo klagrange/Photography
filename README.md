@@ -1,1 +1,3 @@
-# photography
+# Photography
+
+Social photography application (expo app)
